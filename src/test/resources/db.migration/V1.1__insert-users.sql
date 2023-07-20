@@ -1,0 +1,1 @@
+INSERT INTO users (id, nome , CPF ) values ('1', 'Teste', '111111111');

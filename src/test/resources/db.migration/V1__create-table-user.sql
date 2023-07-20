@@ -1,0 +1,7 @@
+CREATE TABLE users(
+
+    id INTEGER PRIMARY KEY,
+    nome VARCHAR,
+    CPF VARCHAR
+
+);
